@@ -15,7 +15,10 @@ The management expects detailed insights into the following:
 - Content Consumption Behaviour
 
 The insights derived from this study will help the management make informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India.
-
+#
+### Data Source: 
+MySQL Database Files
+#
 ### Steps Followed
 
 Step 1: Creating database with the SQL Text file on using MySQL Workbench. 
