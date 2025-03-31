@@ -1,6 +1,9 @@
 # Insights for a Strategic Merger in the OTT Domain
 
 ### Domain: Telecom & Streaming Services
+#
+
+#### Probelem Statement
 
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms. 
 
