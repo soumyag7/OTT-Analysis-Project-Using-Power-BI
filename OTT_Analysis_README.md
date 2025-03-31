@@ -22,7 +22,7 @@ The insights derived from this study will help the management make informed deci
 ### Data Source: 
 MySQL Database Files
 #
-### Steps Followed
+### Action Taken
 
 Step 1: Creating database with the SQL Text file on using MySQL Workbench. 
 
